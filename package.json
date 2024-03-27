@@ -1,4 +1,5 @@
 {
+  "name":"s234simple-calculator",
   "version": "1.0.0",
   "description": "A Simple Calculator With Typescript, Node.js and Inquirer",
   "main": "index.js",
